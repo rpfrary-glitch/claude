@@ -1,0 +1,6 @@
+.env
+*.env
+TESTS/environment.json
+/out/
+__pycache__/
+node_modules/
